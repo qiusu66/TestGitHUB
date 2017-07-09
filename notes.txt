@@ -29,7 +29,8 @@ git push -u origin master
 
 add->commit->push
 
-
+8. git pull -u origin master
+(several guys working in the same project, one modify one file, another modify another file, want to update can use pull to update from repository)
 
 
 
