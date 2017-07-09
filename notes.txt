@@ -1,0 +1,42 @@
+notes:
+
+1.git config --global user.name "su"
+(show who make the commits and push)
+
+2.git config --global user.email "qiusu66@gmail.com"
+(associate with the email) 
+
+3.git clone https://github.com/qiusu66/TestGitHUB.git
+(clone the code to lcoal)
+
+4.git status
+(to see the changes that has been made)
+
+5.git add (file)
+(add all the changed files to stage, this is between local and online)
+
+6.git commit -m "updated readme file for better description" (-m means meassage, maybe other types)
+(finalize the stage area, like a documentation that record the changes, hi, I add a new file so others get to know you add a message file or other types of files)
+git commit -help (see types)
+
+git remote add origin https://github.com/qiusu66/TestGitHUB.git
+git push -u origin master
+(create a new repo, not clone it, remote add the origin)
+
+
+7. git push -u origin master
+(push to the github master)
+
+add->commit->push
+
+
+
+
+
+
+
+
+
+
+
+
